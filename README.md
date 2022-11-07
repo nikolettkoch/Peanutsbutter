@@ -1,4 +1,1 @@
-# Peanutsbutter
-IKT project munka
-
-Első sor Ákosnak
+$ git commit -m "html letrehozasa"
